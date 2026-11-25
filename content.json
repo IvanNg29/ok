@@ -1,0 +1,210 @@
+{
+  "site": {
+    "name": "ĐỒNG THÁP",
+    "tagline": "Đất sen hồng · Miền sông nước",
+    "description": "Khám phá thiên nhiên, văn hóa, ẩm thực và nhịp sống của tỉnh Đồng Tháp.",
+    "footerNote": "Một hành trình qua miền đất hiền hòa bên dòng Mekong."
+  },
+  "navigation": [
+    { "label": "Trang chủ", "href": "index.html", "key": "home" },
+    { "label": "Khám phá", "href": "kham-pha.html", "key": "explore" },
+    { "label": "Văn hóa", "href": "van-hoa.html", "key": "culture" },
+    { "label": "Ẩm thực", "href": "am-thuc.html", "key": "food" },
+    { "label": "Kinh tế", "href": "kinh-te.html", "key": "economy" },
+    { "label": "Thông tin tỉnh", "href": "thong-tin.html", "key": "info" }
+  ],
+  "pages": {
+    "home": {
+      "title": "Đồng Tháp — Đất sen hồng",
+      "description": "Một vùng đất nơi sắc sen, nhịp sông và sự mến khách cùng tạo nên bản sắc rất riêng của miền Tây Nam Bộ.",
+      "hero": {
+        "eyebrow": "CHÀO MỪNG ĐẾN VỚI MIỀN ĐẤT SEN HỒNG",
+        "title": "Chạm vào vẻ đẹp\nmiền sông nước",
+        "lead": "Từ những cánh đồng sen bát ngát đến vườn hoa rực rỡ, từ rừng tràm yên bình đến những dòng sông trĩu nặng phù sa — Đồng Tháp luôn có một câu chuyện để kể.",
+        "image": "https://www.vietnamairlines.com/content/dam/legacy-site-assets/SEO-images/2025%20SEO/Thay%20Anh%20Traffic%20Tieng%20Anh/mekong%20delta%20in%20vietnam/the-famous-photogenic-spot-lotus-fields-in-dong-thap-muoi.jpeg",
+        "imageAlt": "Cánh đồng sen hồng giữa vùng Đồng Tháp Mười",
+        "button": { "label": "Bắt đầu khám phá", "href": "kham-pha.html" },
+        "note": "ĐỒNG THÁP · VIỆT NAM"
+      },
+      "intro": {
+        "eyebrow": "TINH HOA MIỀN TÂY",
+        "title": "Mộc mạc trong cảnh sắc, đậm đà trong bản sắc",
+        "text": "Đồng Tháp là miền đất của phù sa, mùa nước nổi và những con người chân thành. Không chỉ có sen hồng và những cánh đồng xanh, nơi đây còn lưu giữ nhiều lớp trầm tích lịch sử, làng nghề truyền thống và nhịp sống miệt vườn đặc trưng."
+      },
+      "stats": [
+        { "value": "5.938,64", "unit": "km²", "label": "Diện tích tự nhiên" },
+        { "value": "4,37", "unit": "triệu người", "label": "Quy mô dân số theo Nghị quyết 202/2025/QH15" },
+        { "value": "102", "unit": "đơn vị", "label": "Đơn vị hành chính cấp xã" }
+      ],
+      "highlightsTitle": "Mỗi góc nhìn, một câu chuyện",
+      "highlightsLead": "Chọn một chủ đề để bắt đầu hành trình khám phá Đồng Tháp.",
+      "cards": [
+        { "tag": "THIÊN NHIÊN & DU LỊCH", "title": "Khám phá miền xanh", "text": "Rừng tràm, vườn quốc gia, làng hoa và những miền quê ven sông.", "image": "https://vinhtour.vn/wp-content/uploads/2024/11/du-lich-dong-thap-xeo-quyt.jpg", "alt": "Xuồng nhỏ đi giữa rừng tràm Xẻo Quýt", "href": "kham-pha.html", "link": "Khám phá điểm đến" },
+        { "tag": "DI SẢN & CON NGƯỜI", "title": "Văn hóa nhiều lớp", "text": "Từ dấu tích Óc Eo, lễ hội dân gian đến nghề thủ công và đờn ca tài tử.", "image": "https://ik.imagekit.io/tvlk/blog/2024/03/cong-vien-sa-dec-9.jpg?tr=q-70%2Cc-at_max%2Cw-1000%2Ch-600", "alt": "Những luống hoa tại Sa Đéc", "href": "van-hoa.html", "link": "Tìm hiểu văn hóa" },
+        { "tag": "HƯƠNG VỊ MIỀN TÂY", "title": "Ẩm thực dân dã", "text": "Hủ tiếu Sa Đéc, nem Lai Vung, món ngon từ sen và sản vật miệt vườn.", "image": "https://mekongsen.vn/datafiles/1989319905715032064/2025-11/1763202012-28617054-hu-tieu-sa-dec-3.png", "alt": "Một tô hủ tiếu Sa Đéc", "href": "am-thuc.html", "link": "Thưởng thức đặc sản" }
+      ],
+      "quote": "Đồng Tháp — nơi vẻ đẹp bình dị khiến người ta muốn dừng chân lâu hơn."
+    },
+    "explore": {
+      "title": "Khám phá Đồng Tháp",
+      "description": "Những điểm đến mang dấu ấn sông nước, thiên nhiên và lịch sử.",
+      "hero": {
+        "eyebrow": "HÀNH TRÌNH MIỀN TÂY",
+        "title": "Đi để thấy\nmiền đất xanh",
+        "lead": "Mỗi điểm đến là một lát cắt của Đồng Tháp: có nơi dành cho người yêu thiên nhiên, có nơi lưu dấu lịch sử, có nơi níu chân bằng sắc hoa và nhịp sống miệt vườn.",
+        "image": "https://d122axpxm39woi.cloudfront.net/images/destinations/origin/5fb4e4fa4883c.jpg",
+        "imageAlt": "Du khách đi xuồng trên con rạch nhỏ giữa rừng tràm Xẻo Quýt",
+        "button": { "label": "Xem các điểm nổi bật", "href": "#diem-den" },
+        "note": "THIÊN NHIÊN · DI SẢN · TRẢI NGHIỆM"
+      },
+      "intro": {
+        "eyebrow": "ĐIỂM HẸN ĐÁNG NHỚ",
+        "title": "Từ rừng tràm đến làng hoa",
+        "text": "Không gian tỉnh Đồng Tháp hiện nay trải rộng trên địa bàn hai tỉnh Đồng Tháp và Tiền Giang trước đây. Vì vậy, hành trình khám phá có thể kết hợp cảnh quan Đồng Tháp Mười, các đô thị ven sông Tiền và những vườn cây ăn trái miền hạ lưu."
+      },
+      "sectionTitle": "Những điểm đến tiêu biểu",
+      "sectionLead": "Một vài gợi ý để cảm nhận nhiều sắc thái khác nhau của vùng đất này.",
+      "cards": [
+        { "tag": "SINH THÁI", "title": "Vườn quốc gia Tràm Chim", "text": "Vùng đất ngập nước tiêu biểu của Đồng Tháp Mười, nổi bật với hệ sinh thái đồng cỏ, tràm, sen, súng và nhiều loài chim nước. Đây là điểm đến dành cho người yêu thiên nhiên và quan sát chim.", "image": "https://photosvoyagevietnam.com/storage/files/resized/Blog-travel/tram-chim-national-park-1-bl-720.webp", "alt": "Chim nước giữa thảm sen tại Tràm Chim", "meta": "Tam Nông · Đồng Tháp" },
+        { "tag": "LÀNG NGHỀ", "title": "Làng hoa Sa Đéc", "text": "Không gian nghề trồng hoa kiểng lâu đời, nổi bật với những luống hoa nhiều màu sắc và cách bố trí giàn hoa thích ứng với vùng đất thấp.", "image": "https://www.bonboncar.vn/blog/content/images/2025/10/image-134.png", "alt": "Vườn hoa cúc trên giàn tại Sa Đéc", "meta": "Sa Đéc · Đồng Tháp" },
+        { "tag": "LỊCH SỬ & SINH THÁI", "title": "Khu di tích Xẻo Quýt", "text": "Rừng tràm, kênh rạch và dấu tích căn cứ cách mạng cùng tạo nên một không gian tham quan giàu giá trị lịch sử, sinh thái.", "image": "https://vinhtour.vn/wp-content/uploads/2024/11/du-lich-dong-thap-xeo-quyt.jpg", "alt": "Xuồng ba lá trong rừng tràm Xẻo Quýt", "meta": "Khu vực Cao Lãnh · Đồng Tháp" },
+        { "tag": "KHẢO CỔ & TÂM LINH", "title": "Di tích quốc gia đặc biệt Gò Tháp", "text": "Quần thể di tích gắn với văn hóa Óc Eo, dấu tích Phù Nam và các nhân vật lịch sử của phong trào chống Pháp ở Nam Bộ.", "image": "https://www.vietnamairlines.com/content/dam/legacy-site-assets/SEO-images/2025%20SEO/Thay%20Anh%20Traffic%20Tieng%20Viet/khu%20di%20tich%20go%20thap/den-than-vishnu-khong-chi-la-diem-den-tam-linh-ma-con-la-minh-chung-cho-su-da-dang-van-hoa-cua-khu.png", "alt": "Không gian cây xanh và di tích cổ", "meta": "Đồng Tháp Mười · Đồng Tháp" },
+        { "tag": "LỊCH SỬ", "title": "Khu di tích Nguyễn Sinh Sắc", "text": "Địa chỉ văn hóa – lịch sử tưởng niệm cụ Phó bảng Nguyễn Sinh Sắc, thân sinh Chủ tịch Hồ Chí Minh, đồng thời tái hiện một phần không gian làng Hòa An xưa.", "image": "https://imagevietnam.vnanet.vn/MediaUpload/Org/2024/05/16/vna-potal-thang-5-tham-nha-san-bac-ho-trong-khu-di-tich-nguyen-sinh-sac-tai-dong-thap-737865216-11-21-20.jpg", "alt": "Kiến trúc truyền thống trong không gian nhiều cây xanh", "meta": "Cao Lãnh · Đồng Tháp" },
+        { "tag": "MIỆT VƯỜN", "title": "Cù lao Thới Sơn", "text": "Một không gian miệt vườn ven sông Tiền với vườn cây ăn trái, kênh rạch và trải nghiệm đời sống sông nước đặc trưng của vùng đất Tiền Giang trước đây.", "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=85", "alt": "Miền quê xanh ven sông", "meta": "Khu vực Mỹ Tho · Đồng Tháp" }
+      ],
+      "callout": { "title": "Một chuyến đi, nhiều trải nghiệm", "text": "Bạn có thể kết hợp tham quan sinh thái, tìm hiểu di tích và thưởng thức đặc sản địa phương trong cùng một hành trình.", "button": { "label": "Khám phá văn hóa", "href": "van-hoa.html" } }
+    },
+    "culture": {
+      "title": "Văn hóa & lịch sử",
+      "description": "Tìm hiểu những lớp trầm tích lịch sử, di sản văn hóa và đời sống cộng đồng Đồng Tháp.",
+      "hero": {
+        "eyebrow": "DẤU ẤN THỜI GIAN",
+        "title": "Một vùng đất\nngàn câu chuyện",
+        "lead": "Bản sắc Đồng Tháp được bồi đắp qua nhiều thế hệ: từ dấu tích khảo cổ, lịch sử mở đất và đấu tranh, đến lễ hội, làng nghề và nghệ thuật dân gian.",
+        "image": "https://ik.imagekit.io/tvlk/blog/2024/03/cong-vien-sa-dec-9.jpg?tr=q-70%2Cc-at_max%2Cw-1000%2Ch-600",
+        "imageAlt": "Những vườn hoa rực rỡ tại Sa Đéc",
+        "button": { "label": "Tìm hiểu di sản", "href": "#di-san" },
+        "note": "DI SẢN · LỄ HỘI · LÀNG NGHỀ"
+      },
+      "intro": {
+        "eyebrow": "BẢN SẮC ĐỊA PHƯƠNG",
+        "title": "Giao thoa văn hóa, gìn giữ cội nguồn",
+        "text": "Đồng Tháp mang đậm sắc thái văn hóa Nam Bộ, được hình thành từ quá trình khai phá vùng đất, giao lưu cộng đồng và sinh hoạt gắn với sông nước. Những di tích, lễ hội và nghề truyền thống là một phần quan trọng trong ký ức cộng đồng."
+      },
+      "sectionTitle": "Những giá trị làm nên bản sắc",
+      "sectionLead": "Di sản không chỉ nằm trong di tích, mà còn hiện diện trong tiếng hát, nghề thủ công và sinh hoạt thường ngày.",
+      "cards": [
+        { "tag": "KHẢO CỔ", "title": "Di sản văn hóa Óc Eo – Gò Tháp", "text": "Gò Tháp lưu giữ nhiều dấu tích khảo cổ gắn với văn hóa Óc Eo và vương quốc Phù Nam xưa, là điểm gặp gỡ giữa nghiên cứu lịch sử, kiến trúc và tín ngưỡng.", "image": "https://www.vietnamairlines.com/content/dam/legacy-site-assets/SEO-images/2025%20SEO/Thay%20Anh%20Traffic%20Tieng%20Viet/khu%20di%20tich%20go%20thap/den-than-vishnu-khong-chi-la-diem-den-tam-linh-ma-con-la-minh-chung-cho-su-da-dang-van-hoa-cua-khu.png", "alt": "Không gian di tích cổ dưới tán cây", "meta": "Di tích quốc gia đặc biệt" },
+        { "tag": "DI TÍCH", "title": "Khu di tích Nguyễn Sinh Sắc", "text": "Nơi tưởng niệm nhà nho yêu nước Nguyễn Sinh Sắc, đồng thời giới thiệu không gian làng Hòa An xưa với nhà truyền thống và sinh hoạt văn hóa Nam Bộ.", "image": "https://imagevietnam.vnanet.vn/MediaUpload/Org/2024/05/16/vna-potal-thang-5-tham-nha-san-bac-ho-trong-khu-di-tich-nguyen-sinh-sac-tai-dong-thap-737865216-11-21-20.jpg", "alt": "Kiến trúc truyền thống", "meta": "Cao Lãnh" },
+        { "tag": "NGHỆ THUẬT DÂN GIAN", "title": "Hò Đồng Tháp & đờn ca tài tử", "text": "Tiếng hò, câu ca và tiếng đàn phản ánh tâm hồn phóng khoáng, chân tình của cư dân miền sông nước. Đờn ca tài tử Nam Bộ được UNESCO ghi danh là di sản văn hóa phi vật thể đại diện của nhân loại.", "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1200&q=85", "alt": "Không gian biểu diễn âm nhạc", "meta": "Nghệ thuật trình diễn" },
+        { "tag": "LÀNG NGHỀ", "title": "Hoa kiểng Sa Đéc", "text": "Nghề trồng hoa kiểng không chỉ tạo sinh kế mà còn trở thành biểu tượng văn hóa và cảnh quan đặc trưng của Sa Đéc.", "image": "https://www.bonboncar.vn/blog/content/images/2025/10/image-134.png", "alt": "Nghề trồng hoa kiểng Sa Đéc", "meta": "Nghề truyền thống" },
+        { "tag": "LÀNG NGHỀ", "title": "Nghề làm nem Lai Vung", "text": "Nem Lai Vung là một đặc sản gắn với tên đất, tên nghề và kinh nghiệm chế biến được truyền qua nhiều thế hệ.", "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=85", "alt": "Món ăn truyền thống được bày biện", "meta": "Di sản nghề truyền thống" },
+        { "tag": "LỄ HỘI", "title": "Lễ hội Gò Tháp", "text": "Lễ hội gắn với tín ngưỡng dân gian và tưởng niệm các nhân vật lịch sử Thiên Hộ Dương, Đốc Binh Kiều; là dịp cộng đồng gặp gỡ và gìn giữ truyền thống.", "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=85", "alt": "Không gian lễ hội đông vui", "meta": "Lễ hội truyền thống" }
+      ],
+      "callout": { "title": "Di sản được gìn giữ bằng sự tiếp nối", "text": "Tìm hiểu thêm về các điểm đến, làng nghề và lễ hội để cảm nhận rõ hơn chiều sâu văn hóa của Đồng Tháp.", "button": { "label": "Xem điểm đến", "href": "kham-pha.html" } }
+    },
+    "food": {
+      "title": "Ẩm thực Đồng Tháp",
+      "description": "Hương vị dân dã từ sản vật đồng quê, vườn cây và dòng sông miền Tây.",
+      "hero": {
+        "eyebrow": "HƯƠNG VỊ MIỀN SÔNG NƯỚC",
+        "title": "Thân quen từ\nmiếng ngon quê nhà",
+        "lead": "Ẩm thực Đồng Tháp mộc mạc mà phong phú, tận dụng sản vật theo mùa và cách chế biến truyền thống để tạo nên những hương vị khó quên.",
+        "image": "https://mekongsen.vn/datafiles/1989319905715032064/2025-11/1763202012-28617054-hu-tieu-sa-dec-3.png",
+        "imageAlt": "Hủ tiếu Sa Đéc với tôm, thịt và rau xanh",
+        "button": { "label": "Khám phá món ngon", "href": "#mon-ngon" },
+        "note": "ĐẶC SẢN · SẢN VẬT · ẨM THỰC"
+      },
+      "intro": {
+        "eyebrow": "TỪ ĐỒNG RUỘNG ĐẾN BÀN ĂN",
+        "title": "Nguyên liệu địa phương, hương vị khó trộn lẫn",
+        "text": "Bữa ăn miền Tây thường gắn với mùa vụ và nguồn nguyên liệu sẵn có. Ở Đồng Tháp, sợi hủ tiếu, nem chua, trái cây miệt vườn hay các món chế biến từ sen đều kể câu chuyện về sản vật và bàn tay khéo léo của người dân."
+      },
+      "sectionTitle": "Những hương vị nên thử",
+      "sectionLead": "Mỗi món ăn mang theo một phần ký ức và nếp sống của vùng đất.",
+      "cards": [
+        { "tag": "MÓN NƯỚC", "title": "Hủ tiếu Sa Đéc", "text": "Sợi hủ tiếu gạo đặc trưng, thường ăn cùng nước dùng thanh, thịt, tôm và rau xanh. Món ăn đã trở thành một dấu ấn quen thuộc khi nhắc đến Sa Đéc.", "image": "https://mekongsen.vn/datafiles/1989319905715032064/2025-11/1763202012-28617054-hu-tieu-sa-dec-3.png", "alt": "Tô hủ tiếu Sa Đéc", "meta": "Sa Đéc" },
+        { "tag": "ĐẶC SẢN", "title": "Nem Lai Vung", "text": "Nem có vị chua dịu, thơm, thường được gói bằng lá chuối và dùng làm món ăn chơi hoặc món khai vị.", "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=85", "alt": "Món ăn truyền thống Việt Nam", "meta": "Lai Vung" },
+        { "tag": "TRÁI CÂY", "title": "Quýt hồng Lai Vung", "text": "Mùa quýt hồng mang đến sắc cam rực rỡ cho những khu vườn miệt vườn. Trái cây thường được thưởng thức tươi hoặc làm quà biếu theo mùa.", "image": "https://mia.vn/media/uploads/blog-du-lich/vuon-quyt-hong-lai-vung-thoi-diem-ly-tuong-1727451670.jpg", "alt": "Những quả cam quýt tươi", "meta": "Lai Vung" },
+        { "tag": "SẢN VẬT", "title": "Món ngon từ sen", "text": "Hạt sen, ngó sen và củ sen được sử dụng trong nhiều món ăn, từ món mặn đến món ngọt, tạo nên nét riêng gắn với hình ảnh sen Đồng Tháp.", "image": "https://ik.imagekit.io/tvlk/blog/2024/03/dac-san-cao-lanh-8-1024x493.jpg?tr=dpr-2%2Cw-675", "alt": "Gỏi ngó sen tôm thịt", "meta": "Đồng Tháp Mười" },
+        { "tag": "TRÁI CÂY", "title": "Xoài cát Hòa Lộc", "text": "Một loại trái cây nổi tiếng của khu vực Gò Công – Tiền Giang trước đây, nay thuộc địa giới tỉnh Đồng Tháp mới. Xoài có hương thơm và vị ngọt đặc trưng.", "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=1200&q=85", "alt": "Xoài chín vàng", "meta": "Khu vực Gò Công" },
+        { "tag": "MÓN ĐỒNG QUÊ", "title": "Ẩm thực mùa nước nổi", "text": "Theo mùa, bữa ăn miền sông nước có thể có cá linh, bông điên điển, cá đồng và nhiều loại rau tự nhiên. Món ăn thay đổi theo con nước và nguồn nguyên liệu từng thời điểm.", "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=85", "alt": "Mâm món ăn truyền thống", "meta": "Theo mùa" }
+      ],
+      "callout": { "title": "Ăn ngon cũng là một cách tìm hiểu văn hóa", "text": "Đằng sau mỗi món đặc sản là câu chuyện về thổ nhưỡng, mùa vụ và nghề truyền thống của người địa phương.", "button": { "label": "Tìm hiểu văn hóa", "href": "van-hoa.html" } }
+    },
+    "economy": {
+      "title": "Kinh tế & đời sống",
+      "description": "Khám phá nền tảng nông nghiệp, làng nghề, thương mại và tiềm năng phát triển của Đồng Tháp.",
+      "hero": {
+        "eyebrow": "NHỊP SỐNG & PHÁT TRIỂN",
+        "title": "Từ phù sa\nđến tương lai",
+        "lead": "Nông nghiệp, thủy sản, công nghiệp chế biến, thương mại và du lịch cùng tạo nên bức tranh kinh tế đa dạng của tỉnh Đồng Tháp mới.",
+        "image": "https://www.bonboncar.vn/blog/content/images/2025/10/image-134.png",
+        "imageAlt": "Người dân chăm sóc vườn hoa Sa Đéc",
+        "button": { "label": "Tìm hiểu các lĩnh vực", "href": "#dong-luc" },
+        "note": "NÔNG NGHIỆP · LÀNG NGHỀ · DỊCH VỤ"
+      },
+      "intro": {
+        "eyebrow": "NỀN TẢNG PHÁT TRIỂN",
+        "title": "Lợi thế từ sông Tiền và vùng sinh thái đa dạng",
+        "text": "Không gian tỉnh mới kết nối vùng Đồng Tháp Mười với dải đất ven sông Tiền và vùng ven biển phía đông. Sự đa dạng về sinh thái, sản vật và mạng lưới đô thị tạo điều kiện phát triển nhiều ngành kinh tế bổ trợ cho nhau."
+      },
+      "sectionTitle": "Những trụ cột kinh tế",
+      "sectionLead": "Các lĩnh vực tiêu biểu gắn với lợi thế tự nhiên và kỹ năng sản xuất của cộng đồng địa phương.",
+      "cards": [
+        { "tag": "NÔNG NGHIỆP", "title": "Lúa gạo & cây lương thực", "text": "Vùng đất phù sa và hệ thống sông ngòi tạo điều kiện cho sản xuất lúa, góp phần duy trì vai trò của Đồng bằng sông Cửu Long trong chuỗi cung ứng lương thực.", "image": "https://images.unsplash.com/photo-1536059827832-4f8b0e1b3f4f?auto=format&fit=crop&w=1200&q=85", "alt": "Cánh đồng lúa xanh", "meta": "Nông nghiệp" },
+        { "tag": "CÂY ĂN TRÁI", "title": "Vườn cây & trái cây đặc sản", "text": "Xoài, quýt, sầu riêng và nhiều loại cây ăn trái được phát triển tại các vùng sinh thái khác nhau, gắn với kinh tế vườn và chuỗi sản phẩm địa phương.", "image": "https://mia.vn/media/uploads/blog-du-lich/vuon-quyt-hong-lai-vung-thoi-diem-ly-tuong-1727451670.jpg", "alt": "Trái cây tươi trong vườn", "meta": "Kinh tế vườn" },
+        { "tag": "THỦY SẢN", "title": "Nuôi trồng & chế biến thủy sản", "text": "Hệ thống sông, kênh rạch và vùng ven biển mở ra lợi thế cho nuôi trồng, khai thác và chế biến thủy sản, đi cùng yêu cầu quản lý nguồn nước và môi trường bền vững.", "image": "https://images.unsplash.com/photo-1510130387422-82bed34b37e9?auto=format&fit=crop&w=1200&q=85", "alt": "Hoạt động nuôi trồng thủy sản", "meta": "Thủy sản" },
+        { "tag": "LÀNG NGHỀ", "title": "Hoa kiểng & sản phẩm truyền thống", "text": "Hoa kiểng Sa Đéc, nghề làm nem Lai Vung, nghề làm bột gạo và các sản phẩm thủ công góp phần tạo việc làm, phát triển thương hiệu địa phương.", "image": "https://www.bonboncar.vn/blog/content/images/2025/10/image-134.png", "alt": "Vườn hoa kiểng Sa Đéc", "meta": "Kinh tế làng nghề" },
+        { "tag": "CÔNG NGHIỆP", "title": "Chế biến nông – thủy sản", "text": "Chế biến sâu, bảo quản sau thu hoạch và phát triển chuỗi giá trị là những hướng đi quan trọng để nâng cao giá trị nông sản, thủy sản địa phương.", "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=85", "alt": "Không gian sản xuất công nghiệp", "meta": "Công nghiệp chế biến" },
+        { "tag": "DỊCH VỤ", "title": "Thương mại & du lịch", "text": "Các đô thị, tuyến giao thông và điểm đến văn hóa – sinh thái tạo nền tảng cho thương mại, dịch vụ, logistics và du lịch trải nghiệm.", "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=85", "alt": "Phong cảnh miền quê sông nước", "meta": "Dịch vụ" }
+      ],
+      "callout": { "title": "Phát triển hài hòa với thiên nhiên", "text": "Tương lai của Đồng Tháp gắn với nâng cao giá trị sản phẩm, bảo vệ hệ sinh thái và tạo cơ hội phát triển bền vững cho cộng đồng.", "button": { "label": "Xem thông tin tỉnh", "href": "thong-tin.html" } }
+    },
+    "info": {
+      "title": "Thông tin tỉnh Đồng Tháp",
+      "description": "Một số thông tin khái quát về tỉnh Đồng Tháp sau sắp xếp đơn vị hành chính năm 2025.",
+      "hero": {
+        "eyebrow": "ĐỒNG THÁP HÔM NAY",
+        "title": "Một tỉnh mới,\nmột không gian kết nối",
+        "lead": "Từ ngày 01/07/2025, tỉnh Đồng Tháp mới đi vào hoạt động trên cơ sở hợp nhất toàn bộ diện tích tự nhiên và dân số của tỉnh Đồng Tháp và tỉnh Tiền Giang trước đây.",
+        "image": "https://www.vietnamairlines.com/content/dam/legacy-site-assets/SEO-images/2025%20SEO/Thay%20Anh%20Traffic%20Tieng%20Anh/mekong%20delta%20in%20vietnam/the-famous-photogenic-spot-lotus-fields-in-dong-thap-muoi.jpeg",
+        "imageAlt": "Cảnh sắc sông nước và hoa sen ở Đồng Tháp",
+        "button": { "label": "Xem các mốc chính", "href": "#moc-thoi-gian" },
+        "note": "CẬP NHẬT THEO THÔNG TIN CÔNG BỐ NĂM 2026"
+      },
+      "intro": {
+        "eyebrow": "LƯU Ý VỀ ĐỊA GIỚI",
+        "title": "Đồng Tháp hiện nay rộng hơn phạm vi tỉnh cũ",
+        "text": "Khi nhắc đến địa danh quen thuộc như Cao Lãnh, Sa Đéc, Lai Vung, Mỹ Tho hay Gò Công, cần lưu ý đây là các khu vực thuộc không gian tỉnh Đồng Tháp hiện nay sau sắp xếp. Một số địa danh và cách gọi cũ vẫn được sử dụng trong giao tiếp, du lịch và tư liệu lịch sử."
+      },
+      "factsTitle": "Thông tin khái quát",
+      "facts": [
+        { "label": "Tên tỉnh", "value": "Đồng Tháp" },
+        { "label": "Thời điểm hoạt động", "value": "01/07/2025" },
+        { "label": "Cơ sở hợp nhất", "value": "Toàn bộ tỉnh Đồng Tháp và tỉnh Tiền Giang trước đây" },
+        { "label": "Diện tích tự nhiên", "value": "5.938,64 km²" },
+        { "label": "Quy mô dân số", "value": "4.370.046 người (theo Nghị quyết 202/2025/QH15)" },
+        { "label": "Đơn vị hành chính cấp xã", "value": "102 đơn vị: 82 xã và 20 phường" },
+        { "label": "Trung tâm hành chính – chính trị", "value": "Phường Mỹ Tho" },
+        { "label": "Cổng thông tin điện tử", "value": "dongthap.gov.vn" }
+      ],
+      "timelineTitle": "Các mốc sắp xếp hành chính",
+      "timeline": [
+        { "date": "12/06/2025", "title": "Quốc hội thông qua Nghị quyết 202/2025/QH15", "text": "Nghị quyết về việc sắp xếp đơn vị hành chính cấp tỉnh, trong đó hợp nhất toàn bộ tỉnh Tiền Giang và tỉnh Đồng Tháp thành tỉnh Đồng Tháp mới." },
+        { "date": "16/06/2025", "title": "Thông qua sắp xếp đơn vị hành chính cấp xã", "text": "Nghị quyết 1663/NQ-UBTVQH15 quy định việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp năm 2025." },
+        { "date": "01/07/2025", "title": "Tỉnh Đồng Tháp mới chính thức hoạt động", "text": "Tỉnh mới hoạt động với 102 đơn vị hành chính cấp xã; trung tâm hành chính – chính trị đặt tại phường Mỹ Tho." }
+      ],
+      "sourcesTitle": "Nguồn tham khảo",
+      "sourcesLead": "Thông tin giới thiệu được tổng hợp từ các cổng thông tin chính thức và nguồn tham khảo về du lịch, văn hóa địa phương.",
+      "sources": [
+        { "label": "Cổng thông tin điện tử tỉnh Đồng Tháp – Thông tin chung", "url": "https://dongthap.gov.vn/web/van-phong-ubnd-tinh/tin-tuc/chi-tiet?id=11664830" },
+        { "label": "Cổng thông tin Chính phủ – Chi tiết 34 đơn vị hành chính cấp tỉnh", "url": "https://xaydungchinhsach.chinhphu.vn/chi-tiet-34-don-vi-hanh-chinh-cap-tinh-tu-12-6-2025-119250612141845533.htm" },
+        { "label": "Cổng thông tin du lịch Đồng Tháp", "url": "https://dulich.dongthap.gov.vn/" },
+        { "label": "Cổng thông tin tỉnh Đồng Tháp – Truyền thống văn hóa", "url": "https://www.dongthap.gov.vn/web/cong-thong-tin-dtp/truyen-thong-van-hoa" },
+        { "label": "Cổng thông tin du lịch Đồng Tháp – Lịch sử hình thành", "url": "https://dulich.dongthap.gov.vn/vi/history" }
+      ],
+      "callout": { "title": "Tìm hiểu Đồng Tháp từ nguồn chính thống", "text": "Khi sử dụng thông tin trong bài học, báo cáo hoặc tài liệu chính thức, hãy truy cập cổng thông tin tỉnh để xem dữ liệu mới nhất.", "button": { "label": "Mở cổng thông tin tỉnh", "href": "https://dongthap.gov.vn/", "external": true } }
+    }
+  }
+}
